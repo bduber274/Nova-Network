@@ -1,4 +1,4 @@
-const port = "8080"
+const port = "420"
 const Corrosion = require('./lib/server')
 const express = require('express')
 const firebase = require('firebase/app');
@@ -44,5 +44,5 @@ app.use('/', function (req, res) {
 });
 
 app.listen(process.env.PORT || port, () => {
-  console.log(`Celestial is running at localhost:${port}`)
+  console.log(`Hooray! Nova is running at localhost:${port}`)
 })
