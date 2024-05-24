@@ -1,2 +1,2 @@
-# Celestial
-Version 3 of Celestial Network Games - Inspired by Interstellar, JordansMathWork, and Plexile Arcade. Made using Rusty
+# Nova
+Version 3 of Celestial Network Games, Renamed to Nova - Inspired by Interstellar, JordansMathWork, and Plexile Arcade. Made using Rusty
