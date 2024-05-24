@@ -1,4 +1,4 @@
-const port = "420"
+const port = "6969"
 const Corrosion = require('./lib/server')
 const express = require('express')
 const firebase = require('firebase/app');
