@@ -3,11 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nova</title>
+  <title>Nova Network</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <style>
-    /* Custom styling for browser-like tabs */
     body {
       font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
       background-color: #202020;
@@ -30,7 +29,7 @@
       background-color: #333;
       border-radius: 10px;
       margin-bottom: 10px;
-      align-items: center; /* Center horizontally */
+      align-items: center; 
       padding: 0 10px;
     }
 
@@ -94,7 +93,7 @@
     iframe {
       border: none;
       width: 100%;
-      height: calc(100% - 40px); /* Adjusted height to fit within the tab */
+      height: calc(100% - 40px); 
     }
   </style>
 </head>
@@ -130,12 +129,11 @@
 
       const iframe = document.createElement('iframe');
       iframe.setAttribute('id', `content-frame-${tabCounter}`);
-      iframe.setAttribute('src', 'about:blank'); // Set initial src to about:blank
+      iframe.setAttribute('src', 'about:blank'); 
 
       document.getElementById(`iframe-container-${tabCounter}`).appendChild(iframe);
       switchTab(tabContent);
 
-      // Load content into the iframe (replace 'index.html' with your desired URL)
       document.getElementById(`content-frame-${tabCounter}`).src = 'index.html';
     }
 
