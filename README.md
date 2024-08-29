@@ -11,5 +11,6 @@ Run Command: ` node index.js `
 Render:
 TBD
 
-Vercel:
-TBD
+
+# Not Supported
+Vercel, Heroku
