@@ -11,7 +11,8 @@ Run Command: ` node index.js `
 *Very buggy I don't reccomend*
 
 Render:
-TBD
+Build Command: ` npm install `
+Start Command: ` node index.js `
 
 
 # Not Supported
