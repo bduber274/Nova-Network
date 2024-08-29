@@ -6,6 +6,7 @@ Version 3 of Celestial Network Games, Renamed to Nova - Inspired by Interstellar
 # Setup
 Replit:
 Run Command: ` node index.js `
+*Very buggy I don't reccomend*
 
 Render:
 TBD
