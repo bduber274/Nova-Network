@@ -6,12 +6,12 @@ Version 3 of Celestial Network Games, Renamed to Nova - Inspired by Interstellar
 # This requires activation codes, join the <a href="//discord.com/invite/wMEEHZVsU5">discord</a> to get one!
 
 # Setup
-Replit:
+<u>Replit:</u>
 
-Run Command: ` node index.js ` *Very buggy I don't reccomend*
+Run Command: ` node index.js ` *Very buggy I don't recommend*
 
 
-Render:
+<u>Render:</u>
 
 Build Command: ` npm install `
 
