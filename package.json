@@ -1,12 +1,12 @@
 {
-  "name": "Rusty",
+  "name": "Nova",
   "version": "1.0.0",
   "description": "A simple frontend design for Corrosion you can deploy",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Nebelung",
+  "author": "Not_Bduber274",
   "dependencies": {
     "acorn-hammerhead": "^0.5.0",
     "corrosion": "^1.0.0",
